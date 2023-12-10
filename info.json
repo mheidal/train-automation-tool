@@ -4,6 +4,6 @@
   "title": "Train Automation Tool",
   "author": "notnotnaught",
   "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1"],
+  "dependencies": ["base >= 1.1", "flib >= 0.12.9"],
   "description": "Adds a tool that can toggle train states from manual to auto."
 }
